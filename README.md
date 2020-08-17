@@ -7,7 +7,7 @@ Fyyur is a musical venue and artist booking site that facilitates the discovery 
 
 ### Overview
 
-This app is nearly completed and collaborated with a faculty member in [Udacity](https://www.udacity.com/). While the views and controllers are defined by the Udacity faculty member,it is missing models and model interactions to be able to store, retrieve, and update data from a database. I implemented the following to make the site functioning: 
+This app is nearly completed and collaborated with a faculty member in [Udacity](https://www.udacity.com/). While the views and controllers are defined by the Udacity faculty member, it is missing models and model interactions to be able to store, retrieve, and update data from a database. I implemented the following to make the site functioning: 
 
 * creating new venues, artists, and creating new shows.
 * searching for venues and artists.
